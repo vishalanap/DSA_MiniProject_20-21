@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1604836233 source:c:\users\admin\documents\dsa\link.c
+	<stdio.h>
+	<stdlib.h>
+	"link.h"
+
+1604845131 c:\users\admin\documents\dsa\link.h
+
+1604835737 source:c:\users\admin\documents\dsa\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"link.h"
+	"listop.h"
+	"fun.h"
+
+1604832452 c:\users\admin\documents\dsa\listop.h
+
+1604845631 c:\users\admin\documents\dsa\fun.h
+
+1604833468 source:c:\users\admin\documents\dsa\listop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"link.h"
+	"listop.h"
+
+1604835818 source:c:\users\admin\documents\dsa\stack.c
+	<stdlib.h>
+	"stack.h"
+
+1604831834 c:\users\admin\documents\dsa\stack.h
+	"link.h"
+
+1604836560 source:c:\users\admin\documents\dsa\infix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"stack.h"
+	"fun.h"
+	"link.h"
+	"listop.h"
+	"get_tokens.h"
+
+1604835885 source:c:\users\admin\documents\dsa\get_tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"link.h"
+	"listop.h"
+	"get_tokens.h"
+
+1604831707 c:\users\admin\documents\dsa\get_tokens.h
+
+1604836988 source:c:\users\admin\documents\dsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"stack.h"
+	"fun.h"
+	"link.h"
+	"listop.h"
+	"get_tokens.h"
+
+1604835737 source:c:\users\admin\documents\dsa_project_111903015\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"link.h"
+	"listop.h"
+	"fun.h"
+
+1604845131 c:\users\admin\documents\dsa_project_111903015\link.h
+
+1604832452 c:\users\admin\documents\dsa_project_111903015\listop.h
+
+1604825269 c:\users\admin\documents\dsa_project_111903015\fun.h
+
+1604835885 source:c:\users\admin\documents\dsa_project_111903015\get_tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"link.h"
+	"listop.h"
+	"get_tokens.h"
+
+1604831707 c:\users\admin\documents\dsa_project_111903015\get_tokens.h
+
+1604836233 source:c:\users\admin\documents\dsa_project_111903015\link.c
+	<stdio.h>
+	<stdlib.h>
+	"link.h"
+
+1604833468 source:c:\users\admin\documents\dsa_project_111903015\listop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"link.h"
+	"listop.h"
+
+1604836988 source:c:\users\admin\documents\dsa_project_111903015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"stack.h"
+	"fun.h"
+	"link.h"
+	"listop.h"
+	"get_tokens.h"
+
+1604831834 c:\users\admin\documents\dsa_project_111903015\stack.h
+	"link.h"
+
+1604835818 source:c:\users\admin\documents\dsa_project_111903015\stack.c
+	<stdlib.h>
+	"stack.h"
+
