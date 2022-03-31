@@ -10,13 +10,6 @@ FIND COMMAND IMPLEMENTATION IN C :
 	that match the supplied search criteria.
 */
 
-/*
-	Name : Anap Vishal Bhausaheb
-	Div : 1 (SY Comp)
-	Mis : 111903015
-	Batch : S1
-*/
-
 //Check all given command line arguments and point to correct option
 /*
     length : Number of command line arguments
